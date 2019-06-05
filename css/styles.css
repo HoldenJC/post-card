@@ -1,0 +1,30 @@
+#postCard {
+
+  display: none;
+  border: 3px dashed blue;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.lineRow {
+  border-bottom: 1px solid black;
+  height: 20px;
+}
+
+#letterContent {
+  text-align: left;
+  border-right: 1px solid black;
+  padding-right: 5px;
+  padding-top: 10px;
+}
+
+#imgRow {
+  height: 50%;
+  text-align: right;
+}
+
+#postImage {
+  position: absolute;
+  right: 0px;
+  padding: 10px;
+}
